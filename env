@@ -1,0 +1,5 @@
+module.exports = {
+  api_server: '',
+  static_server: '',
+  production: false
+}
